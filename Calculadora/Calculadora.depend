@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1536018002 source:c:\users\intel\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca_entradaDeDatos.h"
+	"biblioteca_operacionesMatematicas.h"
+
+1536016462 c:\users\intel\desktop\calculadora\biblioteca_entradadedatos.h
+
+1536016462 source:c:\users\intel\desktop\calculadora\biblioteca_entradadedatos.c
+	<stdint.h>
+	"biblioteca_entradaDeDatos.h"
+
+1536018036 c:\users\intel\desktop\calculadora\biblioteca_operacionesmatematicas.h
+
+1536018036 source:c:\users\intel\desktop\calculadora\biblioteca_operacionesmatematicas.c
+	<stdint.h>
+	"biblioteca_entradaDeDatos.h"
+	"biblioteca_operacionesMatematicas.h"
+
+1536157133 source:c:\users\intel\desktop\tp_laboratorio_1\calculadora\biblioteca_entradadedatos.c
+	<stdint.h>
+	<stdio.h>
+	"biblioteca_entradaDeDatos.h"
+
+1536156041 c:\users\intel\desktop\tp_laboratorio_1\calculadora\biblioteca_entradadedatos.h
+
+1536261956 source:c:\users\intel\desktop\tp_laboratorio_1\calculadora\biblioteca_operacionesmatematicas.c
+	<stdint.h>
+	<stdio.h>
+	"biblioteca_operacionesMatematicas.h"
+
+1536156760 c:\users\intel\desktop\tp_laboratorio_1\calculadora\biblioteca_operacionesmatematicas.h
+
+1536262174 source:c:\users\intel\desktop\tp_laboratorio_1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca_entradaDeDatos.h"
+	"biblioteca_operacionesMatematicas.h"
+
